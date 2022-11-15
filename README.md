@@ -2,3 +2,4 @@
 Your word Write the message to be sent here. And write as much as you want to send.
 
 First open 'messages.txt' file.
+And write the message to be sent here. And write as much as you want to send.
